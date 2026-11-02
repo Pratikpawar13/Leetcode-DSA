@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
