@@ -35,19 +35,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0112-path-sum) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0112-path-sum) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0112-path-sum) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 <!---LeetCode Topics End-->
