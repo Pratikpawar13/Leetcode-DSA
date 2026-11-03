@@ -30,4 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/1978-employees-whose-manager-left-the-company) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
