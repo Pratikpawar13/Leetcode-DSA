@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Quicksort
 |  |
