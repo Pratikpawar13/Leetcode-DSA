@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0322-coin-change) |
 | [1207-unique-number-of-occurrences](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0322-coin-change) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -73,4 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
