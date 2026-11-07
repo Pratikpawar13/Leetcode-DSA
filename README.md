@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0300-longest-increasing-subsequence](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0322-coin-change) |
 | [1207-unique-number-of-occurrences](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
@@ -70,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0938-range-sum-of-bst](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0322-coin-change) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
