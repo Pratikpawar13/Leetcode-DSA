@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0139-word-break) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
