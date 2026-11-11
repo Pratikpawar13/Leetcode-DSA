@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0112-path-sum) |
+| [0133-clone-graph](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0112-path-sum) |
+| [0133-clone-graph](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0322-coin-change) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0055-jump-game) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
