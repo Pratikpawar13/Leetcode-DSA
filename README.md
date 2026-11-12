@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [1207-unique-number-of-occurrences](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [0938-range-sum-of-bst](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -152,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
