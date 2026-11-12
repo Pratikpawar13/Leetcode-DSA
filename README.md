@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [0938-range-sum-of-bst](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -163,4 +166,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0695-max-area-of-island) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
