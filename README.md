@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0743-network-delay-time) |
+| [0994-rotting-oranges](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
