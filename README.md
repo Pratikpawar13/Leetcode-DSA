@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Pratikpawar13/Leetcode-DSA/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Tree
 |  |
